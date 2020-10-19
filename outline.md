@@ -1,4 +1,4 @@
-# *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Analyzing Social Media and Digital Content*
+# *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Digital Content*
 
 ## Authors: Aaron Beveridge and Nicholas M. Van Horn
 
