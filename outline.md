@@ -40,11 +40,13 @@ It's a common maxim to hear people proclaim: "I never read the documentation" or
 
 ### Chapter 3: Ethics: Surveillance, Privacy, and Intellectual Property
 
+### Chapter 4: Open Access and Sharing Data
+
 ## Section II: Research Methodologies
 
-### Chapter 4: Graphs, Game Theory, and Diffusion of Innovations
+### Chapter 5: Graphs, Game Theory, and Diffusion of Innovations
 
-### Chapter 5: Natural Language Processing
+### Chapter 6: Natural Language Processing
 Outline:  
 - Text as Data
   - Brief History of NLP
@@ -57,12 +59,10 @@ Outline:
 - Emoji
 - Speech-to-Text: Analyzing Audio and Video
 
-### Chapter 6: Demographics, Psychometrics, and Mixed-Methods
+### Chapter 7: Demographics, Psychometrics, and Mixed-Methods
 
-## Section III: Collecting, Sharing, and Exporting Data
+<!-- ## Section III: Collecting, Sharing, and Exporting Data
 
-### Chapter 7: Managing a Data Collection Project
+### Chapter 8: Managing a Data Collection Project
 
-### Chapter 8: Exploratory and Descriptive Statistics
-
-### Chapter 9: Exporting, Sharing, and Managing Large Datasets
+### Chapter 9: Exploratory and Descriptive Statistics -->
