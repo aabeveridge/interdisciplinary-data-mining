@@ -35,21 +35,39 @@ This chapter explains the underlying rationale for MassMine: the use Application
 It's a common maxim to hear people proclaim: "I never read the documentation" or "I do not pay attention to terms of service." This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.
 
 **Chapter 2 Outline:**
-- Why read the guidelines and terms of service?
-- What can be found here?
 - What are the types of Networks?
   - message boards and email groups
   - forums
   - RSS feeds
   - social networks
+- Why read the guidelines and terms of service?
+  - What can be found here?
+    - Data dictionaries
+    - Bandwidth restrictions
+    - Limitations on research approaches
+      - Example:
+        - Twitter restricting "benchmarking" of their services
 
-### Chapter 3: Research Ethics: Surveillance, Privacy, and Intellectual Property
-- robots.txt
+### Chapter 3: Research Ethics: Privacy Rights and Intellectual Property
+This chapter addresses the many ethical and ownership issues surrounding data mining activities as they relate to interdisciplinary research. Focusing on two primary areas--privacy rights and intellectual property--this chapter examines key areas related to data collection, anonimization, and ownership.
+
+**Chapter 3 Outline:**
+- Privacy rights--why they matter
+  - Respond to this faulty logic:
+    - "If you're not doing anything wrong, then you shouldn't have anything to hide."
+- Standard practices:
+  - robots.txt
 - the limitations of "anonymous" data
 - intellectual property law and web scraping
 
 ### Chapter 4: Open Access: Sharing Data and Managing Collaborations
+
+
+**Chapter 4 Outline:**
 - the importance of the open data movement for interdisciplinary data mining
+  - replicating studies/methods
+  - archiving
+  - data loss
 - legal issues involved with sharing data collected from APIs
 - what are the current methods and what should researchers know?
 
