@@ -1,4 +1,6 @@
-# Open Access: Sharing Data and Managing Collaborations
+# Exploring Data
+## What is Exploratory Data Analysis?
+## What types of data are available?
 
 **Chapter 4 Outline:**
 - the importance of the open data movement for interdisciplinary data mining

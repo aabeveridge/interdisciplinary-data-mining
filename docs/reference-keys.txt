@@ -1,8 +1,14 @@
 best-practices
 what-are-apis
+research-ethics
+overview
+privacy-rights
+intellectual-property
+open-access
 understanding-networks-types-histories-and-guidelines
-research-ethics-privacy-rights-and-intellectual-property
-open-access-sharing-data-and-managing-collaborations
+exploring-data
+what-is-exploratory-data-analysis
+what-types-of-data-are-available
 defining-trends-innovations-games-and-graphs
 text-mining-natural-language-processing-and-information-extraction
 mixed-methods-demographics-psychometrics-and-qualitative-studies
