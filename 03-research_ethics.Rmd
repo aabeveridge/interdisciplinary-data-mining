@@ -1,0 +1,11 @@
+# Research Ethics: Privacy Rights and Intellectual Property
+This chapter addresses the many ethical and ownership issues surrounding data mining activities as they relate to interdisciplinary research. Focusing on two primary areas--privacy rights and intellectual property--this chapter examines key areas related to data collection, anonimization, and ownership.
+
+**Chapter 3 Outline:**
+- Privacy rights--why they matter
+  - Respond to this faulty logic:
+    - "If you're not doing anything wrong, then you shouldn't have anything to hide."
+- Standard practices:
+  - robots.txt
+- the limitations of "anonymous" data
+- intellectual property law and web scraping

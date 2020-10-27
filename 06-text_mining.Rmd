@@ -1,0 +1,14 @@
+# Text Mining: Natural Language Processing and Information Extraction
+Outline:
+- Text as Data
+  - Brief History of NLP
+  - Bag of Words vs. Word Embeddings
+  - Scrubbing and Data Janitorial Work
+  - Word Frequencies and N-Grams
+    - Zips law
+  - Word Correlations
+- Documents and Corpora
+- Emoji
+- Sentiment Analysis
+- Speech-to-Text: Analyzing Audio and Video
+- Unicode and foreign languages

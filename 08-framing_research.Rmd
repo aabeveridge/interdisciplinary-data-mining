@@ -1,0 +1,9 @@
+# Framing Research
+
+- Needs subtitle
+- Philosophy of science chapter
+- What's the big picture with data mining?
+- Where is all of this headed?
+- What are the goals guiding this work?
+  - Can we head toward "healthy" networks?
+  - Move away from manipulative models and attention economies?

@@ -31,7 +31,7 @@ This chapter explains the underlying rationale for MassMine: the use Application
 - Conclusion
   - How other chapters extend the concept of "Being a Good Citizen of the Internet"
 
-### Chapter 2: Knowing Networks: Network Types and Developer (Researcher) Guidelines
+### Chapter 2: Understanding Networks: Types, Histories, and Guidelines
 It's a common maxim to hear people proclaim: "I never read the documentation" or "I do not pay attention to terms of service." This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.
 
 **Chapter 2 Outline:**

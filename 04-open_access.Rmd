@@ -1,0 +1,9 @@
+# Open Access: Sharing Data and Managing Collaborations
+
+**Chapter 4 Outline:**
+- the importance of the open data movement for interdisciplinary data mining
+  - replicating studies/methods
+  - archiving
+  - data loss
+- legal issues involved with sharing data collected from APIs
+- what are the current methods and what should researchers know?

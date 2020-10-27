@@ -1,0 +1,17 @@
+# Best Practices
+
+## What are APIs?
+This chapter explains the underlying rationale for MassMine: the use Application Programming Interfaces (APIs) to collect data from digital networks. Building on a basic description of API scraping, as compared to web scraping and web crawling, Chapter 1 explains the benefits and limitations of API scraping for interdisciplinary research.
+
+**Chapter 1 Outline:**
+- What are APIs and why do they exist?
+- API scraping vs web scraping vs web crawling
+- Scraping best practices
+  - Robots.txt
+  - Page visit delays
+  - Bandwidth limitations of APIs
+- Potential pitfalls/mishaps to avoid
+  - Accidental DDOS
+  - Unintended Doxing
+- Conclusion
+  - How other chapters extend the concept of "Being a Good Citizen of the Internet"
