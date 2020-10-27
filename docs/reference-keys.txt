@@ -13,16 +13,3 @@ defining-trends-innovations-games-and-graphs
 text-mining-natural-language-processing-and-information-extraction
 mixed-methods-demographics-psychometrics-and-qualitative-studies
 framing-research
-interdisciplinary-data-mining-best-practices-and-research-methodologies-for-studying-social-networks-and-digital-content
-authors-aaron-beveridge-and-nicholas-m.-van-horn
-introduction-what-is-data-mining
-section-i-best-practices
-chapter-1-best-practices-being-good-citizens-of-the-internet
-chapter-2-understanding-networks-types-histories-and-guidelines
-chapter-3-research-ethics-privacy-rights-and-intellectual-property
-chapter-4-open-access-sharing-data-and-managing-collaborations
-section-ii-research-methodologies
-chapter-5-defining-trends-innovations-games-and-graphs
-chapter-6-text-mining-natural-language-processing-and-information-extraction
-chapter-7-mixed-methods-demographics-psychometrics-and-qualitative-studies
-chapter-8-framing-research-need-subtitle-philosophy-of-science-chapter-where-is-all-of-this-heading-a-guide-to-developing-answerabletestable-research-questions
