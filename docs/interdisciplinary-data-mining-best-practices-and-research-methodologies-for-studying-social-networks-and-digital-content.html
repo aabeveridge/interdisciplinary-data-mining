@@ -4,11 +4,11 @@
 
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <title>Chapter 7 Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies | Interdisciplinary Data Mining</title>
-  <meta name="description" content="Chapter 7 Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies | Interdisciplinary Data Mining" />
+  <title>Chapter 9 Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content | Interdisciplinary Data Mining</title>
+  <meta name="description" content="Chapter 9 Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content | Interdisciplinary Data Mining" />
   <meta name="generator" content="bookdown 0.21 and GitBook 2.6.7" />
 
-  <meta property="og:title" content="Chapter 7 Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies | Interdisciplinary Data Mining" />
+  <meta property="og:title" content="Chapter 9 Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content | Interdisciplinary Data Mining" />
   <meta property="og:type" content="book" />
   
   
@@ -16,7 +16,7 @@
   
 
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:title" content="Chapter 7 Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies | Interdisciplinary Data Mining" />
+  <meta name="twitter:title" content="Chapter 9 Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content | Interdisciplinary Data Mining" />
   
   
   
@@ -31,8 +31,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black" />
   
   
-<link rel="prev" href="text-mining-natural-language-processing-and-information-extraction.html"/>
-<link rel="next" href="framing-research.html"/>
+<link rel="prev" href="framing-research.html"/>
+
 <script src="libs/header-attrs-2.4/header-attrs.js"></script>
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
@@ -130,18 +130,142 @@
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="mixed-methods-demographics-psychometrics-and-qualitative-studies" class="section level1" number="7">
-<h1><span class="header-section-number">Chapter 7</span> Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies</h1>
+<div id="interdisciplinary-data-mining-best-practices-and-research-methodologies-for-studying-social-networks-and-digital-content" class="section level1" number="9">
+<h1><span class="header-section-number">Chapter 9</span> <em>Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content</em></h1>
+<div id="authors-aaron-beveridge-and-nicholas-m.-van-horn" class="section level2" number="9.1">
+<h2><span class="header-section-number">9.1</span> Authors: Aaron Beveridge and Nicholas M. Van Horn</h2>
+</div>
+<div id="introduction-what-is-data-mining" class="section level2" number="9.2">
+<h2><span class="header-section-number">9.2</span> Introduction: What is Data Mining?</h2>
+<p>The introduction extends the abstract (see: <code>README.md</code>) and explains how students, faculty, and non-academic researchers can get the most from <em>Interdisciplinary Data Mining</em>. Because this book has been written in R markdown, all of the example data visualizations in the methodologies section (Section II) also serve as functioning code examples to support readers in conducting their own studies. Each chapter provides suggested readings and tutorials to assist researchers in reproducing similar data visualizations for their own projects, and all of the code examples are available through GitHub. Additionally, the introduction will address why we have organized the book the way we have, providing a rationale for our choices and providing alternative ways of exploring the content in the book.</p>
+<p><strong>Introduction Outline:</strong>
+- Extend abstract
+- What is data mining?
+- Data Science vs. Big Data
+- Rationale for outline and approach to book
+- How to get the most out of this book
+- Why R?
+- How to contribute to MassMine</p>
+</div>
+<div id="section-i-best-practices" class="section level2" number="9.3">
+<h2><span class="header-section-number">9.3</span> Section I: Best Practices</h2>
+<div id="chapter-1-best-practices-being-good-citizens-of-the-internet" class="section level3" number="9.3.1">
+<h3><span class="header-section-number">9.3.1</span> Chapter 1: Best Practices: Being Good Citizens of the Internet</h3>
+<p>This chapter explains the underlying rationale for MassMine: the use Application Programming Interfaces (APIs) to collect data from digital networks. Building on a basic description of API scraping, as compared to web scraping and web crawling, Chapter 1 explains the benefits and limitations of API scraping for interdisciplinary research.</p>
+<p><strong>Chapter 1 Outline:</strong>
+- What are APIs and why do they exist?
+- API scraping vs web scraping vs web crawling
+- Scraping best practices
+- Robots.txt
+- Page visit delays
+- Bandwidth limitations of APIs
+- Potential pitfalls/mishaps to avoid
+- Accidental DDOS
+- Unintended Doxing
+- Conclusion
+- How other chapters extend the concept of “Being a Good Citizen of the Internet”</p>
+</div>
+<div id="chapter-2-understanding-networks-types-histories-and-guidelines" class="section level3" number="9.3.2">
+<h3><span class="header-section-number">9.3.2</span> Chapter 2: Understanding Networks: Types, Histories, and Guidelines</h3>
+<p>It’s a common maxim to hear people proclaim: “I never read the documentation” or “I do not pay attention to terms of service.” This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.</p>
+<p><strong>Chapter 2 Outline:</strong>
+- What are the types of Networks?
+- message boards and email groups
+- forums
+- RSS feeds
+- social networks
+- Why read the guidelines and terms of service?
+- What can be found here?
+- Data dictionaries
+- Bandwidth restrictions
+- Limitations on research approaches
+- Example:
+- Twitter restricting “benchmarking” of their services</p>
+</div>
+<div id="chapter-3-research-ethics-privacy-rights-and-intellectual-property" class="section level3" number="9.3.3">
+<h3><span class="header-section-number">9.3.3</span> Chapter 3: Research Ethics: Privacy Rights and Intellectual Property</h3>
+<p>This chapter addresses the many ethical and ownership issues surrounding data mining activities as they relate to interdisciplinary research. Focusing on two primary areas–privacy rights and intellectual property–this chapter examines key areas related to data collection, anonimization, and ownership.</p>
+<p><strong>Chapter 3 Outline:</strong>
+- Privacy rights–why they matter
+- Respond to this faulty logic:
+- “If you’re not doing anything wrong, then you shouldn’t have anything to hide.”
+- Standard practices:
+- robots.txt
+- the limitations of “anonymous” data
+- intellectual property law and web scraping</p>
+</div>
+<div id="chapter-4-open-access-sharing-data-and-managing-collaborations" class="section level3" number="9.3.4">
+<h3><span class="header-section-number">9.3.4</span> Chapter 4: Open Access: Sharing Data and Managing Collaborations</h3>
+<p><strong>Chapter 4 Outline:</strong>
+- the importance of the open data movement for interdisciplinary data mining
+- replicating studies/methods
+- archiving
+- data loss
+- legal issues involved with sharing data collected from APIs
+- what are the current methods and what should researchers know?</p>
+</div>
+</div>
+<div id="section-ii-research-methodologies" class="section level2" number="9.4">
+<h2><span class="header-section-number">9.4</span> Section II: Research Methodologies</h2>
+<div id="chapter-5-defining-trends-innovations-games-and-graphs" class="section level3" number="9.4.1">
+<h3><span class="header-section-number">9.4.1</span> Chapter 5: Defining Trends: Innovations, Games, and Graphs</h3>
+<p>This chapter tells the story of “trends” for digital networks. This chapter starts with a very simple definition of a trend according to Diffusion of Innovations, explaining the S-shaped model of diffusion, and the “Justin Bieber” problem. It then complicates this definition with discussions of “contagion” effects, and the problem of defining trends within singular networks.</p>
+<p>Moving forward, it looks at the question of “trends” for game theory, explaining some fundamental issues related to information cascades, the unintended consequences of “datafication” (the ‘like’ button, for example), and then other issues–such as the common practice of ‘gaming’ social network algorithms. The goal for the chapter is to continue to complicate the idea of “trends,” and to have the concept evolve as we work our way through Diffusion of Innovations, and then game theory, and then finally into graphs and other issues.</p>
+<p>For graph theory we discuss strong and weak ties, triadic closure, and other known phenomenon resulting from agent based modeling. Additionally, we can bring in other ideas, like metcalfe’s law and the dunbar number to also provide competing perspectives on how we make sense of patters/trends in digital networks.</p>
+<ul>
+<li>What is a trend?
+<ul>
+<li>Diffusion of innovations terminologies</li>
+<li>S-shaped curve of innovation</li>
+<li>the “newness” problem</li>
+</ul></li>
+<li>How “game theory” complicates any simple notions of “trends” and virality
+<ul>
+<li>weak/strong ties</li>
+<li>triadic closure</li>
+<li>others?</li>
+</ul></li>
+<li>Graphs, agents, and blackboxes</li>
+<li>Others?
+<ul>
+<li>metcalfe’s law</li>
+<li>dunbar’s number</li>
+</ul></li>
+</ul>
+</div>
+<div id="chapter-6-text-mining-natural-language-processing-and-information-extraction" class="section level3" number="9.4.2">
+<h3><span class="header-section-number">9.4.2</span> Chapter 6: Text Mining: Natural Language Processing and Information Extraction</h3>
+<p>Outline:
+- Text as Data
+- Brief History of NLP
+- Bag of Words vs. Word Embeddings
+- Scrubbing and Data Janitorial Work
+- Word Frequencies and N-Grams
+- Zips law
+- Word Correlations
+- Documents and Corpora
+- Emoji
+- Sentiment Analysis
+- Speech-to-Text: Analyzing Audio and Video
+- Unicode and foreign languages</p>
+</div>
+<div id="chapter-7-mixed-methods-demographics-psychometrics-and-qualitative-studies" class="section level3" number="9.4.3">
+<h3><span class="header-section-number">9.4.3</span> Chapter 7: Mixed-Methods: Demographics, Psychometrics, and Qualitative Studies</h3>
 <p>This chapter explores use of surveys, case studies, and other qualitative methods in support of data-driven research practices.</p>
+</div>
+<div id="chapter-8-framing-research-need-subtitle-philosophy-of-science-chapter-where-is-all-of-this-heading-a-guide-to-developing-answerabletestable-research-questions" class="section level3" number="9.4.4">
+<h3><span class="header-section-number">9.4.4</span> Chapter 8: Framing Research: [Need subtitle: Philosophy of Science Chapter (Where is all of this heading?), a guide to developing answerable/testable research questions]</h3>
 
+</div>
+</div>
 </div>
             </section>
 
           </div>
         </div>
       </div>
-<a href="text-mining-natural-language-processing-and-information-extraction.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="framing-research.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="framing-research.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -172,7 +296,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/master/07-mixed_methods.Rmd",
+"link": "https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/edit/master/09-book_outline.Rmd",
 "text": "Edit"
 },
 "history": {
@@ -180,7 +304,7 @@ gitbook.start({
 "text": null
 },
 "view": {
-"link": "https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/master/07-mixed_methods.Rmd",
+"link": "https://github.com/YOUR GITHUB USERNAME/YOUR REPO NAME/blob/master/09-book_outline.Rmd",
 "text": null
 },
 "download": null,

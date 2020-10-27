@@ -1,6 +1,6 @@
 ---
 title: "Interdisciplinary Data Mining"
-subtitle: "Best Practices and Research Methodologies for Social Media and Digital Content"
+subtitle: "Best Practices and Research Methodologies for Studying Social Media and Digital Content"
 author: "Aaron Beveridge and Nicholas M. Van Horn"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
