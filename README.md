@@ -1,4 +1,4 @@
-# Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Digital Content
+# Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Media and Digital Content
 This repository contains the markdown files, R code, and bash scripts for [MassMine's](https://www.massmine.org/) companion monograph: *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Media and Digital Content*.
 
 ## Authors
