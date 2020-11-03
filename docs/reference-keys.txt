@@ -11,13 +11,13 @@ histories
 lifecycles
 mining-text
 exploring-data
-case-studies
-surveys
-qualitative-coding
-mixed-methods
 profiles
 demographics
 geolocation
+mixed-methods
+case-studies
+surveys
+qualitative-coding
 defining-trends
 innovations
 games

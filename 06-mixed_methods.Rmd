@@ -1,6 +1,6 @@
 # Mixed Methods
 This chapter explains the necessity of mixed methods, and demonstrates the many types of analyses that they facilitate.
 
-## Profiles
-## Demographics
-## Geolocation
+## Case Studies
+## Surveys
+## Qualitative Coding 

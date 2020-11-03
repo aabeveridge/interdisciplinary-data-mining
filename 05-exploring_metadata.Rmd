@@ -1,7 +1,7 @@
 # Exploring Data
-## Case Studies
-## Surveys
-## Qualitative Coding  
+## Profiles
+## Demographics
+## Geolocation 
 
 **Chapter 4 Outline:**
 - the importance of the open data movement for interdisciplinary data mining
