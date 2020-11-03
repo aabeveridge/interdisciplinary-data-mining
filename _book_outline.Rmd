@@ -1,4 +1,4 @@
-# *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Networks and Digital Content*
+# *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Digital Content and Social Networks*
 
 ## Authors: Aaron Beveridge and Nicholas M. Van Horn
 
@@ -27,7 +27,7 @@ limitations of API scraping for interdisciplinary research.
   - Avoid Pitfalls
     - Accidental DDOS
     - Unintended Doxing
-  - Respect robot.txt   
+  - Respect robot.txt
   - Understand API limitations and developer guidelines for each network you research
     - Twitter "no benchmarking" example
   - Track the evolving ethics and legalities surrounding data mining (discussed at length in chapter 3)
@@ -50,7 +50,7 @@ This chapter addresses the many ethical and ownership issues surrounding data mi
   - legal issues involved with sharing data collected from APIs
   - database, storage, and archiving approaches
 
-### Chapter 3: Understanding Networks: Types and Lifecycles
+### Chapter 3: Understanding Networks: Types, Lifecycles, and Histories
 It's a common maxim to hear people proclaim: "I never read the documentation" or "I do not pay attention to terms of service." This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.
 
 **Chapter 3 Outline**
@@ -73,14 +73,36 @@ It's a common maxim to hear people proclaim: "I never read the documentation" or
         - when Facebook became a top news source
   - How lifecycles affect data/networks
 
-### Chapter 4: Defining Trends: Innovations, Games, and Graphs
+### Chapter 4: Mining Text: Natural Language Processing and Information Extraction
+
+  **Chapter 5 Outline**
+  - Text as Data
+    - Brief History of NLP
+    - Bag of Words vs. Word Embeddings
+    - Scrubbing and Data Janitorial Work
+    - Word Frequencies and N-Grams
+      - Zips law
+    - Word Correlations
+  - Documents and Corpora
+  - Emoji
+  - Sentiment Analysis
+  - Speech-to-Text: Analyzing Audio and Video
+  - Unicode and foreign languages
+
+### Chapter 5: Exploring Metadata: Profiles, Demographics, and Geolocation
+This chapter explores use of surveys, case studies, and other qualitative methods in support of data-driven research practices.
+
+### Chapter 6: Mixed Methods: Case Studies, Surveys, and Qualitative Research
+This chapter explains the necessity of mixed methods, and demonstrates why it is often necessary to "mix" methods when studying digital networks.
+
+### Chapter 7: Defining Trends: Innovations, Games, and Graphs
 This chapter tells the story of "trends" for digital networks. This chapter starts with a very simple definition of a trend according to Diffusion of Innovations, explaining the S-shaped model of diffusion, and the "Justin Bieber" problem. It then complicates this definition with discussions of "contagion" effects, and the problem of defining trends within singular networks.
 
-Moving forward, it looks at the question of "trends" for game theory, explaining some fundamental issues related to information cascades, the unintended consequences of "datafication" (the 'like' button, for example), and then other issues--such as the common practice of 'gaming' social network algorithms. The goal for the chapter is to continue to complicate the idea of "trends," and to have the concept evolve as we work our way through Diffusion of Innovations, and then game theory, and then finally into graphs and other issues.
+Moving forward, it looks at the question of "trends" for game theory, explaining some fundamental issues related to information cascades, the unintended consequences of "datafication" (the 'like' button, for example), and then other issues--such as the common practice of 'gaming' social network algorithms. The goal for this chapter is to continue complicating the idea of "trends," and to have the concept evolve as we work our way through Diffusion of Innovations, and then game theory, and then finally into graphs and other issues.
 
 For graph theory we discuss strong and weak ties, triadic closure, and other known phenomenon resulting from agent based modeling. Additionally, we can bring in other ideas, like metcalfe's law and the dunbar number to also provide competing perspectives on how we make sense of patters/trends in digital networks.
 
-**Chapter 4 Outline**
+**Chapter 7 Outline**
 - What is a trend?
   - Diffusion of innovations terminologies
   - S-shaped curve of innovation
@@ -93,30 +115,12 @@ For graph theory we discuss strong and weak ties, triadic closure, and other kno
 - Others?
   - metcalfe's law
   - dunbar's number
+- Information Cascades and Feedback Loops
+  - Transition to chapter 8
 
-### Chapter 5: Mining Text: Natural Language Processing and Information Extraction
+### Chapter 8: Black Boxes: Models, Algorithms, and Network Systems
+"To truly understand something, you need to be able to re-create it"
 
-**Chapter 5 Outline**
-- Text as Data
-  - Brief History of NLP
-  - Bag of Words vs. Word Embeddings
-  - Scrubbing and Data Janitorial Work
-  - Word Frequencies and N-Grams
-    - Zips law
-  - Word Correlations
-- Documents and Corpora
-- Emoji
-- Sentiment Analysis
-- Speech-to-Text: Analyzing Audio and Video
-- Unicode and foreign languages
 
-### Chapter 6: Exploring Metadata: Demographics, Psychometrics, and Geolocation
-This chapter explores use of surveys, case studies, and other qualitative methods in support of data-driven research practices.
-
-### Chapter 7: Mixing Methods: Surveys, Case Studies, and Qualitative Research
-
-### Chapter 8: Developing Questions (philosophy of science) 
-**Chapter 8 Outline**
-- Supplementary studies
-  - Data that is collected to support already-established methodologies/theories
--
+### Chapter 9: Healthy Networks: Spam, Misinformation, and Echo Chambers (other pollutants?)
+This chapter brings the book full circle. If we open with a conversation of best practices, then we finish with a chapter that focuses on healthy networks and the efforts to head toward them. In other words, if our goal as individual researchers is to proceed as good citizens of the internet who follow best practices in conducting our research according to ethical standards, then as a group, interdisciplinary researchers should also have a stake in the future of the internet. How do we study the health of networks? What do healthy networks look like? Maybe we cannot yet provide a clear ideal on what a healthy network looks like, or what it's key features may be, But, we can certainly define many of the current pollutants that are making our networks full of garbage--contaminants--and begin to define the problem. For example, we didn't really understand the
