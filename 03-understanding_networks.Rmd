@@ -1,5 +1,8 @@
-# Understanding Networks: Types, Histories, and Guidelines
-It's a common maxim to hear people proclaim: "I never read the documentation" or "I do not pay attention to terms of service." This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.
+# Understanding Networks
+
+## Types
+## Histories
+## Lifecycles 
 
 **Chapter 2 Outline:**
 - What are the types of Networks?

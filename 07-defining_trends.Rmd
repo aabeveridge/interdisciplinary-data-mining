@@ -1,10 +1,15 @@
-# Defining Trends: Innovations, Games, and Graphs
+# Defining Trends
 This chapter tells the story of "trends" for digital networks. This chapter starts with a very simple definition of a trend according to Diffusion of Innovations, explaining the S-shaped model of diffusion, and the "Justin Bieber" problem. It then complicates this definition with discussions of "contagion" effects, and the problem of defining trends within singular networks.
 
 Moving forward, it looks at the question of "trends" for game theory, explaining some fundamental issues related to information cascades, the unintended consequences of "datafication" (the 'like' button, for example), and then other issues--such as the common practice of 'gaming' social network algorithms. The goal for the chapter is to continue to complicate the idea of "trends," and to have the concept evolve as we work our way through Diffusion of Innovations, and then game theory, and then finally into graphs and other issues.
 
 For graph theory we discuss strong and weak ties, triadic closure, and other known phenomenon resulting from agent based modeling. Additionally, we can bring in other ideas, like metcalfe's law and the dunbar number to also provide competing perspectives on how we make sense of patters/trends in digital networks.
 
+## Innovations
+## Games
+## Graphs 
+
+**Chapter 7 Outline**
 - What is a trend?
   - Diffusion of innovations terminologies
   - S-shaped curve of innovation

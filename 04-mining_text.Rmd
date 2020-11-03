@@ -1,4 +1,4 @@
-# Text Mining: Natural Language Processing and Information Extraction
+# Mining Text
 Outline:
 - Text as Data
   - Brief History of NLP

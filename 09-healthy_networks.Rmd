@@ -1,0 +1,6 @@
+# Healthy Networks
+This chapter brings the book full circle. If we open with a conversation of best practices, then we finish with a chapter that focuses on healthy networks and the efforts to head toward them. In other words, if our goal as individual researchers is to proceed as good citizens of the internet who follow best practices in conducting our research according to ethical standards, then as a group, interdisciplinary researchers should also have a stake in the future of the internet. How do we study the health of networks? What do healthy networks look like? Maybe we cannot yet provide a clear ideal on what a healthy network looks like, or what it's key features may be, But, we can certainly define many of the current pollutants that are making our networks full of garbage--contaminants--and begin to define the problem. 
+
+## Spam
+## Misinformation
+## Echo Chambers
