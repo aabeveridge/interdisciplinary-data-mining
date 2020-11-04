@@ -1,9 +1,9 @@
-# *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Digital Content and Social Networks*
+# *Network Macroscopes: Data Mining Methodologies for Social Media and Digital Content*
 
 ## Authors: Aaron Beveridge and Nicholas M. Van Horn
 
 ## Introduction
-The introduction extends the abstract (see: `README.md`) and explains how students, faculty, and non-academic researchers can get the most from *Interdisciplinary Data Mining*. Because this book has been written in R markdown, all of the example data visualizations in the methodologies section (Section II) also serve as functioning code examples to support readers in conducting their own studies. Each chapter provides suggested readings and tutorials to assist researchers in reproducing similar data visualizations for their own projects, and all of the code examples are available through GitHub. Additionally, the introduction will address why we have organized the book the way we have, providing a rationale for our choices and providing alternative ways of exploring the content in the book.
+The introduction extends the abstract (see: `README.md`) and explains how students, faculty, and non-academic researchers can get the most from *Network Macroscopes*. Because this book has been written in R markdown, all of the example data visualizations in the methodologies section (Section II) also serve as functioning code examples to support readers in conducting their own studies. Each chapter provides suggested readings and tutorials to assist researchers in reproducing similar data visualizations for their own projects, and all of the code examples are available through GitHub. Additionally, the introduction will address why we have organized the book the way we have, providing a rationale for our choices and providing alternative ways of exploring the content in the book.
 
 **Introduction Outline:**
 - Extend abstract

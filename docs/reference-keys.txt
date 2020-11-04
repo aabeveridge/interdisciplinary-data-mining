@@ -3,7 +3,7 @@ types
 histories
 lifecycles
 mining-text
-exploring-data
+exploring-metadata
 profiles
 demographics
 geolocation

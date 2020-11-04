@@ -1,4 +1,4 @@
-# Exploring Data
+# Exploring Metadata
 ## Profiles
 ## Demographics
 ## Geolocation
