@@ -1,12 +1,16 @@
 # Exploring Metadata
-## Profiles
-## Demographics
-## Geolocation
+### Overview of Exploratory Data Analysis 
+This chapter introduces exploratory data analysis (summary, tables, time series, plots, comparisons) while also providing an introduction to metadata types and their function for interdisciplinary data mining.
 
-**Chapter 3 Outline:**
-- the importance of the open data movement for interdisciplinary data mining
-  - replicating studies/methods
-  - archiving
-  - data loss
-- legal issues involved with sharing data collected from APIs
-- what are the current methods and what should researchers know?
+### Documents
+- Titles
+- Authors
+### Demographics
+- Names
+- Profiles
+### Locations
+- City, State, Country
+- Geolocation
+- IP Address
+- Document/page metadata
+- User metadata

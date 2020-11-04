@@ -1,14 +1,18 @@
 # Mining Text
-Outline:
+### Overview and History
 - Text as Data
-  - Brief History of NLP
-  - Bag of Words vs. Word Embeddings
-  - Scrubbing and Data Janitorial Work
-  - Word Frequencies and N-Grams
-    - Zips law
-  - Word Correlations
-- Documents and Corpora
+- Brief History of NLP
+  - Turing test
+  - Before/After Bag of Words
+  - Word Embeddings and GPT3
+### Natural Language Processing
+- Tokenization
+- Zipf's Law and Word Frequencies
+- N-Grams and Correlations
+- Topic Modeling
+- Word Embeddings
+### Information Extraction
+- Text to Speech
+- Search
+- Sentiment
 - Emoji
-- Sentiment Analysis
-- Speech-to-Text: Analyzing Audio and Video
-- Unicode and foreign languages

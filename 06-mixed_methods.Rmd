@@ -1,7 +1,7 @@
 # Mixed Methods
-This chapter explains the necessity of mixed methods, and demonstrates the many types of analyses that they facilitate.
-
-## Modeling 
-## Case Studies
-## Surveys
-## Qualitative Coding
+### Overview of Mixed Methods
+This chapter provides an overview for methodologies that do not strictly collect or analyze data *from* a particular network, but instead create *new* or *simulated* data to study social media and digital content.
+### Case Studies
+### Surveys
+### Qualitative Coding
+### Modeling

@@ -1,19 +1,30 @@
 # Understanding Networks
-
-## Types
-## Histories
-## Lifecycles
-
-**Chapter 1 Outline:**
+**Chapter 1 Notes**
+- Differentiate between network visualizations (graphs), network abstractions (centralized, decentralized, distributed), and actual networks, like Twitter or Reddit.
 - What are the types of Networks?
   - message boards and email groups
   - forums
   - RSS feeds
   - social networks
-- Why read the guidelines and terms of service?
-  - What can be found here?
-    - Data dictionaries
-    - Bandwidth restrictions
-    - Limitations on research approaches
-      - Example:
-        - Twitter restricting "benchmarking" of their services
+  - Others
+- What are network lifecycles?
+  - Introduce Diffusion of Innovations
+    - DoI terminology
+  - Examples:
+    - The evolution of Twitter over time
+      - create visual timeline
+        - Before/after reverse-chronology
+        - Before/after algorithmic filtering
+        - growth/global footprint
+        - when Facebook became a top news source
+  - How lifecycles affect data/networks
+
+### Types
+### Natures
+- Common knowledge (need better title)
+  - Metcalfe's Law
+  - Traveling Salesman Problem
+  - Dunbar number
+  - Others
+### Terminologies
+### Lifecycles

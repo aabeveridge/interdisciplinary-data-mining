@@ -3,65 +3,71 @@
 ## Authors: Aaron Beveridge and Nicholas M. Van Horn
 
 ## Introduction
-The introduction extends the abstract (see: `README.md`) and explains how students, faculty, and non-academic researchers can get the most from *Network Macroscopes*. Because this book has been written in R markdown, all of the example data visualizations in the methodologies section (Section II) also serve as functioning code examples to support readers in conducting their own studies. Each chapter provides suggested readings and tutorials to assist researchers in reproducing similar data visualizations for their own projects, and all of the code examples are available through GitHub. Additionally, the introduction will address why we have organized the book the way we have, providing a rationale for our choices and providing alternative ways of exploring the content in the book.
+- What is this book about?
+- Who is the audience?
+- How/why is the book structured the way it is (discuss outline)?
+- How can people get the most out of this book?
+  - Use MassMine
+  - See companion tutorials at <www.massmine.org>
 
-**Introduction Outline:**
-- Extend abstract
-- Rationale for outline and approach to book
-- How to get the most out of this book
-- Why R?
-- How to contribute to MassMine
-
-## Chapter 1: Understanding Networks: Types, Lifecycles, and Histories
-It's a common maxim to hear people proclaim: "I never read the documentation" or "I do not pay attention to terms of service." This chapter explains why researchers who are interested in interdisciplinary data mining cannot proceed with ignorance regarding the developer rules and terms of service for APIs. Additionally, it is important to pay attention to the ways in which various networks change over time, and how they account for these changes through developer blogs and public statements made about changes to their underlying systems and technologies.
-
-**Chapter 1 Outline**
-- Differentiate between network visualizations (graphs), network abstractions (centralized, decentralized, distributed), and actual networks, like Twitter or Reddit.
-- What are the types of Networks?
-  - message boards and email groups
-  - forums
-  - RSS feeds
-  - social networks
+## Chapter 1: Understanding Networks
+### Types
+### Natures
+- Common knowledge (need better title)
+  - Metcalfe's Law
+  - Traveling Salesman Problem
+  - Dunbar number
   - Others
-- What are network lifecycles?
-  - Introduce Diffusion of Innovations
-    - DoI terminology
-  - Examples:
-    - The evolution of Twitter over time
-      - create visual timeline
-        - Before/after reverse-chronology
-        - Before/after algorithmic filtering
-        - growth/global footprint
-        - when Facebook became a top news source
-  - How lifecycles affect data/networks
+### Terminologies
+### Lifecycles
 
-## Chapter 2: Mining Text: Natural Language Processing and Information Extraction
-
-**Chapter 2 Outline**
+## Chapter 2: Mining Text
+### Overview and History
 - Text as Data
-  - Brief History of NLP
-  - Bag of Words vs. Word Embeddings
-  - Scrubbing and Data Janitorial Work
-  - Word Frequencies and N-Grams
-    - Zips law
-  - Word Correlations
-- Documents and Corpora
+- Brief History of NLP
+  - Turing test
+  - Before/After Bag of Words
+  - Word Embeddings and GPT3
+### Natural Language Processing
+- Tokenization
+- Zipf's Law and Word Frequencies
+- N-Grams and Correlations
+- Topic Modeling
+- Word Embeddings
+### Information Extraction
+- Text to Speech
+- Search
+- Sentiment
 - Emoji
-- Sentiment Analysis
-- Speech-to-Text: Analyzing Audio and Video
-- Unicode and foreign languages
 
-## Chapter 3: Exploring Metadata: Profiles, Demographics, and Geolocation
-This chapter explores use of surveys, case studies, and other qualitative methods in support of data-driven research practices.
+## Chapter 3: Exploring Metadata
+### Overview of Exploratory Data Analysis
+This chapter introduces exploratory data analysis (summary, tables, time series, plots, comparisons) while also providing an introduction to metadata types and their function for interdisciplinary data mining.
 
-## Chapter 4: Defining Trends: Innovations, Games, and Graphs
+### Documents
+- Titles
+- Authors
+### Demographics
+- Names
+- Profiles
+### Locations
+- City, State, Country
+- Geolocation
+- IP Address
+- Document/page metadata
+- User metadata
+
+## Chapter 4: Defining Trends
+### Innovations
+### Games
+### Graphs
 This chapter tells the story of "trends" for digital networks. This chapter starts with a very simple definition of a trend according to Diffusion of Innovations, explaining the S-shaped model of diffusion, and the "Justin Bieber" problem. It then complicates this definition with discussions of "contagion" effects, and the problem of defining trends within singular networks.
 
 Moving forward, it looks at the question of "trends" for game theory, explaining some fundamental issues related to information cascades, the unintended consequences of "datafication" (the 'like' button, for example), and then other issues--such as the common practice of 'gaming' social network algorithms. The goal for this chapter is to continue complicating the idea of "trends," and to have the concept evolve as we work our way through Diffusion of Innovations, and then game theory, and then finally into graphs and other issues.
 
 For graph theory we discuss strong and weak ties, triadic closure, and other known phenomenon resulting from agent based modeling. Additionally, we can bring in other ideas, like metcalfe's law and the dunbar number to also provide competing perspectives on how we make sense of patters/trends in digital networks.
 
-**Chapter 5 Outline**
+**Chapter 4 Notes**
 - What is a trend?
   - Diffusion of innovations terminologies
   - S-shaped curve of innovation
@@ -75,19 +81,32 @@ For graph theory we discuss strong and weak ties, triadic closure, and other kno
   - metcalfe's law
   - dunbar's number
 - Information Cascades and Feedback Loops
-  - Transition to chapter 8
 
-## Chapter 6: Network Confidence: Spam, Misinformation, and Echo Chambers (other pollutants?)
-This chapter brings the book full circle. If we open with a conversation of best practices, then we finish with a chapter that focuses on healthy networks and the efforts to head toward them. In other words, if our goal as individual researchers is to proceed as good citizens of the internet who follow best practices in conducting our research according to ethical standards, then as a group, interdisciplinary researchers should also have a stake in the future of the internet. How do we study the health of networks? What do healthy networks look like? Maybe we cannot yet provide a clear ideal on what a healthy network looks like, or what it's key features may be, But, we can certainly define many of the current pollutants that are making our networks full of garbage--contaminants--and begin to define the problem. For example, we didn't really understand the
+## Chapter 5: Network Confidence
+### Overview of Network Confidence
+Literature and methods review chapter. Raises a key question and suggests areas of study connected to "network confidence." It also provides a transition to the "mixed methods" chapter, as many of the mixed methods studies build on the questions that are raised in regards to network confidence.
+### Spam and Misinformation
+### Advertising and Manipulation
+### Free Speech and Moderation
+### Hate Speech and Censorship
 
-## Chapter 6: Mixed Methods: Case Studies, Surveys, and Qualitative Research
-This chapter explains the necessity of mixed methods, and demonstrates why it is often necessary to "mix" methods when studying digital networks.
+This chapter brings the book full circle. In another iteration of this chapter, we could have framed it under questions of "network health." How do we study the health of networks? What do healthy networks look like? Maybe we cannot yet provide a foundational ideal that defines how a healthy network functions, or what the key features may be, But, we can certainly define many of the current pollutants that are making our networks full of garbage--contaminants--and begin defining the problem.
+
+## Chapter 6: Mixed Methods
+### Overview of Mixed Methods
+This chapter provides an overview for methodologies that do not strictly collect or analyze data *from* a particular network, but instead create *new* or *simulated* data to study social media and digital content.
+### Case Studies
+### Surveys
+### Qualitative Coding
+### Modeling
 
 ## Chapter 7: Research Ethics
+XXX this chapter combines the previously separated chapters: "Best Practices" and "Research Ethics" XXX
+
 This chapter explains the underlying rationale for MassMine: the use Application Programming Interfaces (APIs) to collect data from digital networks. Building on a basic description of API scraping, as compared to web scraping and web crawling, Chapter 1 explains the benefits and
 limitations of API scraping for interdisciplinary research.
 
-**Chapter Outline**
+**Chapter Notes**
 - Being a Good Citizen
 - What is Data Mining?
   - A Brief History of Internet Research
@@ -102,10 +121,9 @@ limitations of API scraping for interdisciplinary research.
     - Twitter "no benchmarking" example
   - Track the evolving ethics and legalities surrounding data mining (discussed at length in chapter 3)
 - Follow scientific best practices (the subject of this book, also philosophy of interdisciplinary science chapter 8)
-
+XXX
 This chapter addresses the many ethical and ownership issues surrounding data mining activities as they relate to interdisciplinary research. Focusing on two primary areas--privacy rights and intellectual property--this chapter examines key areas related to data collection, anonimization, and ownership.
-
-**Chapter Outline:**
+XXX
 - Privacy rights--why they matter
   - Respond to this faulty logic:
     - "If you're not doing anything wrong, then you shouldn't have anything to hide."
