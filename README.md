@@ -1,5 +1,5 @@
-# Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Media and Digital Content
-This repository contains the markdown files, R code, and bash scripts for [MassMine's](https://www.massmine.org/) companion monograph: *Interdisciplinary Data Mining: Best Practices and Research Methodologies for Studying Social Media and Digital Content*.
+# Network Macroscopes: Data Mining Methodologies for Social Media and Digital Content
+This repository contains the markdown files, R code, and bash scripts for [MassMine's](https://www.massmine.org/) companion book. 
 
 ## Authors
 Aaron Beveridge and Nicholas M. Van Horn
