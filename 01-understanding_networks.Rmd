@@ -2,9 +2,9 @@
 
 ## Types
 ## Histories
-## Lifecycles 
+## Lifecycles
 
-**Chapter 2 Outline:**
+**Chapter 1 Outline:**
 - What are the types of Networks?
   - message boards and email groups
   - forums

@@ -1,9 +1,9 @@
 # Exploring Data
 ## Profiles
 ## Demographics
-## Geolocation 
+## Geolocation
 
-**Chapter 4 Outline:**
+**Chapter 3 Outline:**
 - the importance of the open data movement for interdisciplinary data mining
   - replicating studies/methods
   - archiving
